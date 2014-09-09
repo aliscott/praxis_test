@@ -1,0 +1,1 @@
+{"name":"V1::MediaTypes::Hello","attributes":{"string":{"type":{"name":"String"}}},"views":{"default":{"attributes":{"string":{}},"example":{"string":"incoherent"}}},"identifier":"application/json","description":null,"example":{"string":"incoherent"}}
